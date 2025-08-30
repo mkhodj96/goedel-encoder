@@ -1,0 +1,10 @@
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\goedel-encoder.csproj.AssemblyReference.cache
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\goedel-encoder.csproj.GenerateResource.cache
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\goedel-encoder.csproj.CoreCompileInputs.cache
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

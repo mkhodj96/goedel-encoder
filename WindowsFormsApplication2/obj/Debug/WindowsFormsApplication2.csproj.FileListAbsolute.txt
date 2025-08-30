@@ -1,0 +1,55 @@
+c:\users\zimabi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\zimabi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\zimabi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\zimabi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\zimabi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\zimabi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\zimabi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\zimabi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\zimabi\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Zimabi\Desktop\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Zimabi\Desktop\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Zimabi\Desktop\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Zimabi\Desktop\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Zimabi\Desktop\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Zimabi\Desktop\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Zimabi\Desktop\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Zimabi\Desktop\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Zimabi\Desktop\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Zimabi\Desktop\az paygah\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Zimabi\Desktop\az paygah\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Zimabi\Desktop\az paygah\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Zimabi\Desktop\az paygah\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Zimabi\Desktop\az paygah\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Zimabi\Desktop\az paygah\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Zimabi\Desktop\az paygah\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Zimabi\Desktop\az paygah\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Zimabi\Desktop\az paygah\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Zimabi\Desktop\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Zimabi\Desktop\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Zimabi\Desktop\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Zimabi\Desktop\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Zimabi\Desktop\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Zimabi\Desktop\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Zimabi\Desktop\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Zimabi\Desktop\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Zimabi\Desktop\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+I:\ds\zprojects\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+I:\ds\zprojects\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+I:\ds\zprojects\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+I:\ds\zprojects\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+I:\ds\zprojects\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+I:\ds\zprojects\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+I:\ds\zprojects\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+I:\ds\zprojects\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+I:\ds\zprojects\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\khoda\Documents\Bach-Uni-Project\az paygah\C.T.Project\Godel.n.project\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
